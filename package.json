@@ -1,0 +1,20 @@
+{
+  "name": "deep-thoughts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XxElijahMxX/deep-thoughts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XxElijahMxX/deep-thoughts/issues"
+  },
+  "homepage": "https://github.com/XxElijahMxX/deep-thoughts#readme"
+}
